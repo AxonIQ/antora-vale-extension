@@ -7,10 +7,15 @@
   "contributors": [
     "Milen Dyankov <milendyankov@gmail.com>"
   ],
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/AxonIQ/antora-vale-extension#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxonIQ/antora-vale-extension.git"
   },
+  "bugs": {
+    "url": "https://github.com/AxonIQ/antora-vale-extension/issues"
+  },
+  "main": "index.js",
   "keywords": [
     "antora",
     "antora-component",
