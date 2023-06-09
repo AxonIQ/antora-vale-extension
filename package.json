@@ -1,0 +1,20 @@
+{
+  "name": "@axoniq/antora-vale-extension",
+  "version": "0.1.0",
+  "description": "An extension to run Vale.sh as part of an Antora build",
+  "license": "ISC",
+  "author": "AxonIQ (https://axoniq.io)",
+  "contributors": [
+    "Milen Dyankov <milendyankov@gmail.com>"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antora",
+    "antora-component",
+    "antora-extension",
+    "vale"
+  ]
+}
