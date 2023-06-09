@@ -1,6 +1,6 @@
 {
   "name": "@axoniq/antora-vale-extension",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An extension to run Vale.sh as part of an Antora build",
   "license": "ISC",
   "author": "AxonIQ (https://axoniq.io)",
